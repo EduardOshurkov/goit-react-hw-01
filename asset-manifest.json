@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EduardOshurkov/goit-react-hw-01/static/css/main.98ce568f.css",
+    "main.js": "/EduardOshurkov/goit-react-hw-01/static/js/main.a8860a67.js",
+    "index.html": "/EduardOshurkov/goit-react-hw-01/index.html",
+    "main.98ce568f.css.map": "/EduardOshurkov/goit-react-hw-01/static/css/main.98ce568f.css.map",
+    "main.a8860a67.js.map": "/EduardOshurkov/goit-react-hw-01/static/js/main.a8860a67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ce568f.css",
+    "static/js/main.a8860a67.js"
+  ]
+}
